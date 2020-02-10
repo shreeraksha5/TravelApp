@@ -1,0 +1,47 @@
+.footer_background{
+    background-image: url("../../../images/footer-bg.jpg");
+    
+    width: auto;
+}
+.p_white{
+    color: white;
+    font-size: 16px;
+    font-weight:600 ;
+   color:lightgray;
+   font-family: poppins, Arial, sans-serif;
+    line-height: 28.8px;
+   vertical-align: baseline;
+   letter-spacing: normal;
+   word-spacing: 0px;
+
+}
+.locations_size
+{
+    vertical-align: middle;
+    border-style: none;
+    height: 23%;
+}
+.img_Background{
+    width:100% ;
+}
+.mail_Background{
+    width:110%;
+    height:80% ;
+}
+@media only screen and (max-width: 680px) {
+
+    .img_Background{
+        width:7% ;
+    }
+    .mail_Background {
+        width: 17%;
+        height: 60%;
+    }
+    .locations_size
+{
+    vertical-align: middle;
+    border-style: none;
+    height: 50%;
+}
+
+}

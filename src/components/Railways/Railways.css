@@ -1,0 +1,515 @@
+.bck_ground 
+{ 
+        background: url("../../images/bg_2.jpg") no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+     
+}
+.padding_top{
+     
+                border: none;
+                background: 0 0;
+                padding-top: 15px;
+                line-height: 3.429;
+}
+.swap{
+        width: 30px;
+        background-color: yellow;
+        margin-top: 18%;
+}
+.p_font{
+        font-family : Poppins;
+font-size: 16px;
+
+line-height: 25px;
+vertical-align: baseline;
+letter-spacing: 3px;
+word-spacing: 0px;
+
+font-weight: 500;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+text-decoration: rgb(51, 51, 51);
+text-align: center;
+text-indent: 0px;
+}
+.date_cond{
+        height:200px;
+       
+}
+.auto_buttons{
+        overflow: hidden;
+}
+.p_types{
+
+        text-align: center;
+        margin-top: 2%;
+        margin-bottom: 4%;
+        text-decoration: underline;
+    
+   
+}
+.row_styles{
+        padding: -1% 10%;
+}
+.trains2_logo{
+        margin-top: 9%;
+        height: 72%;
+    width: 70%;
+}
+.train4_logo{
+        margin-top: 9%;
+        height: 60%;
+         width: 60%;
+}
+.trains3_logo{
+        height:13%;
+        width: 73%
+}
+.button_modifys{
+
+ border-left: 1px solid #204667;  
+
+height: 36px;
+width: 118px;
+border: 1px solid
+#e67031;
+border-radius: 5px;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 600;
+letter-spacing: 1px;
+line-height: 18px;
+text-align: center;
+/* 
+//margin-left: 27%; */
+color:
+#fff;
+
+background-color:
+#143049 !important;;
+display: block;
+padding: 0%;
+margin-top:9%;
+margin-left: 1%;
+}
+#date_conds{
+background-color:#143049 !important;
+width: 106%;
+border: none !important;
+color:#e67031;
+font-family: Poppins;
+font-size: 16px;
+}
+.mod_button{
+        border-right: 1px solid #204667;  
+}
+.p_journey{
+
+    font-family : Poppins;
+   font-size: 12px;
+        color:white;
+        line-height: 18px;
+    vertical-align: baseline;
+    letter-spacing: 1.78px;
+    word-spacing: 0px;
+        font-weight: 600;
+    text-decoration: rgb(255, 255, 255);
+}
+.width_prob{
+        width:20%;
+        
+}
+.width_alter{
+        width:20%;
+}
+.line_left1{
+        border-left: 1px solid #204667;
+       
+}
+.borders{
+        
+        border-left: 1px solid #204667;
+        border-right: 1px solid #204667;
+        margin-left:-30px;
+        
+}
+.swap_icon{
+        padding-top:20%;
+        font-size:30px;
+        color: #E67031;
+        margin-top:40%;
+}
+.calenders{
+        height: 30px;
+        border-color:#ffffff;
+}
+select, textarea, input[type="text"]{
+       color:white;
+       background-color: #143049;
+}
+.modify{
+        background-color: #143049;
+        margin-top:-1px;
+}
+.width_pro{
+        width:30%;
+}
+.width_classes{
+        width:15%;
+}
+.tick{
+        height:5%;
+        width:5%;
+}
+ .margin_left{
+        margin-left:-6% ;
+} 
+.table_boxshadow{
+        /* box-shadow:inset 0 0 10px #000000; */
+        /* box-shadow: 10px 10px 5px #888; */
+        /* box-shadow: 10px 10px #888, -10px -10px #f4f4f4, 0px 0px 5px 5px #000000;
+        box-shadow: 5px 5px 5px 15px #888; */
+      box-shadow:0 4px 20px 0 rgba(0,0,0,.14), 0 7px 10px -5px rgba(244,67,54,.4)
+}        
+
+
+.button_alter{
+        width:100%;
+}
+.arrow_alter{
+        height: 46%;
+width: 37%;
+margin-left: 33px;
+
+        
+}
+.arrow_right{
+        margin-left:10%;
+}
+
+.Home_side{
+        margin-left:100% ;
+}
+.About_side{
+        margin-left:5%;
+}
+.p_text{
+        padding-top:10%;
+        font-size:25px;
+}
+/* .back_color{
+        background-color: ;
+} */
+.margin_dur{
+        margin-left: 7%;
+}
+.margin_raj{
+        margin-left: 2%;
+
+}
+.margin_sup{
+        margin-left: -7%;
+}
+.margin_exp{
+  margin-left:9%;
+}
+.train_name{
+        font-weight: 700;
+         font-size: 18px;
+        
+}
+.trains1_logos{
+height:40%;
+width:40%;
+}
+.img_arrow{
+        vertical-align: middle;
+        border-style: none;
+        height: 41px;
+        margin-left: 101%;
+        margin-top: -11%;
+    
+}
+.trains2_logos{
+        height:85px;
+        width:95px;
+        margin-top: -3px;
+}
+.trains5_logos{
+        height:83px;
+        width: 86px;
+        margin-top: 2px;
+}
+
+
+.trains4_logos{
+        height:87px;
+        width: 78px;
+        margin-top:-3px;
+}
+.trains1_logos{
+        height:84px;
+        width: 94px;
+        margin-top:2px;   
+}
+.MuiInputLabel-animated {
+
+       
+        color:  white !important;
+        text-align: right!important;
+    
+    }
+
+
+
+
+.label{
+        color:white;
+}
+
+
+.MuiAutocomplete-input{
+       border-style: none! important;
+
+}
+
+.PrivateNotchedOutline-root-103 {
+        display: none! important;
+}
+.MuiSvgIcon-root{
+        display: none! important;
+}
+
+
+.width_alter{
+        width:10%;
+}
+.grey_1{
+        background-color:lightgray;
+}
+.trains4_logo{
+        height:30%;
+        width:34%;
+}
+.paging{
+        margin-top:10%;
+}
+.color_change{
+        color:lightgray;
+}
+.table_container{
+        margin-top:8%;
+}
+.for_small{
+        display:none ;
+}
+.auto_pads{
+        padding-bottom: 0%;
+}
+.displays{
+        display:block ;
+}
+.displayss{
+        display:none ;
+}
+.pad{
+        padding-top: 0%;
+}
+
+.p_trainname{
+
+        color: #333333;
+        font-family: Poppins;
+    font-size: 15px;
+
+    line-height: 25px;
+  
+    letter-spacing: 1px;
+    word-spacing: 0px;
+
+    font-weight: 600;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: rgb(51, 51, 51);
+    text-align: start;
+    text-indent: 0px;
+}
+.p_number{
+     
+
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: rgb(51, 51, 51);
+    text-align: start;
+    text-indent: 0px;
+
+    font-family : Poppins;
+   
+    font-size: 13px;
+
+
+    line-height: 13px;
+    vertical-align: baseline;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+
+
+}
+.p_totaltime{
+
+    color: #666666;
+    
+    font-family : Poppins;
+    font-size: 11px;
+
+    line-height: 17px;
+    vertical-align: baseline;
+    letter-spacing: 2px;
+    word-spacing: 0px;
+
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: rgb(102, 102, 102);
+    text-align: center;
+    text-indent: 0px;
+    margin-left: 10%;
+
+
+}
+.days_button{
+        width:70px;
+        margin-top: 14%;
+        height:32px;
+}
+
+
+.autocompletes{
+        
+        color: white !important;    
+
+}
+
+@media only screen and (max-width: 600px) {
+        .padding_top{
+     
+                border: none;
+                background: 0 0;
+                padding-top:15px;
+                line-height: 3.429;
+                
+        }
+        .p_journey{
+                margin-left:3% ;
+        }
+        
+        .width_prob{
+                width:100%;
+        }
+
+        .width_alter{
+                width:100%;
+        }
+        .width_pro{
+                width:100%;
+        }
+        .width_classes{
+                width:100%;
+        }
+        .tick{
+                height:5%;
+                width:5%;
+        }
+         .margin_left{
+                margin-left:0% ;
+        } 
+        .p_result{
+                color:red;
+                font-size:20px ;
+        }
+        .line_left1{
+                border-left: 0px solid #204667;
+               
+        }
+        .button_modifys{
+
+                border-left: 0px solid #204667;
+        } 
+        .borders{
+                
+                border-left: 0px solid #204667;
+                border-right: 0px solid #204667;
+                margin-left:0px;
+                
+        }
+        .mod_button{
+                border-right: 0px solid #204667;  
+        }
+        .swap_icon{
+
+                -ms-transform: rotate(90deg); /* IE 9 */
+                -webkit-transform: rotate(90deg); /* Safari 3-8 */
+                transform: rotate(90deg);
+                margin-left:90px;
+                margin-top: -5px;
+        }
+        .button_modify{
+                margin-left:1% ;
+                
+        }
+        .displayss{
+                display:block ;
+        }
+        .displays{
+                display:none ;
+        }
+        #date_conds{
+                width: 37%;
+                margin-left: 7%;
+        }
+        .margin_dur{
+                margin-left:3%;
+        }
+        .link_inputss {
+                font-size: 20px;
+                padding-left:14px;
+                color: white;
+                text-align: center;
+                font-weight: 400;
+            }
+        .margin_exp{
+                margin-left:3%;
+        }
+        .img_arrow{
+                display: none;
+        }
+        .arrow_alter{
+                -ms-transform: rotate(90deg); /* IE 9 */
+                transform: rotate(90deg);margin-left:8%;
+        }
+      .swap{  width: 30px;
+    background-color: yellow;
+    margin-top: 3%;
+    -ms-transform: rotate(90deg); /* IE 9 */
+      transform: rotate(90deg);
+      margin-left:10% ;
+       }
+       .Home_side{
+        margin-left: 6%;
+       }
+       /* .link_input {
+        font-size: 20px;
+        padding-left: 0px;
+        color: white;
+        text-align: center;
+        font-weight: 400;
+    } */
+      }

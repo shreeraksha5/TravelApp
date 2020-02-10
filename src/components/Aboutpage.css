@@ -1,0 +1,115 @@
+body .about {
+    background: url("../images/bg_2.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-bottom: 35%;
+   
+}
+.containerclass{
+    background-color: black;
+    margin-left: 8%;
+}
+.p_heads{
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  margin-top: -2%;
+}
+.navbar-inner{
+    width:100%;
+    height: 100%;
+    background:transparent;
+    background-color: #000;
+    
+    background: 0 0!important
+    }
+    
+.txt_about{
+  font-size: 90px;
+    color: white;
+    text-align: center;
+    padding-top: 15%;
+}
+.headaboutclass {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  margin-top: -18%;
+}
+.search_button{
+  height:100%;
+  width:35%;
+  border-radius: 70px 70px 70px 70px;
+  background-color: orange;
+  border-color: orange;
+
+}
+.book_input{
+  font-size: 14px;
+  padding-top: 0.5rem; /* 1rem=16px */
+  padding-bottom: 0.5rem;
+   margin-right:8px;
+   color:black;
+   }
+   .nav_text{
+    color:white;
+    font-size: larger;
+    padding-top: 8%;
+    }
+    .weather_img_class{
+      width: 100%;
+      height:60%;
+    }
+    .footer{
+        font-size: 15px;
+        color:white;
+        margin-left: 60px;
+        opacity: 1;
+      }
+      .footer1{
+        font-size: 15px;
+        color:white;
+        margin-left: 60px;
+        opacity: 0.7;
+      }
+      .container_class{
+        background: url("../images/p2.jpg") no-repeat center center fixed; 
+        
+      }
+      .text_about{
+        font-size: 70px;
+        margin-left: 38%;
+        color:white;
+        padding-bottom:25%;
+        }   
+        .btns{
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+        
+        @media only screen and (max-width: 478px) {
+          .headaboutclass {
+            text-align: center;
+            font-size: 40px;
+            color: black;
+            margin-top: 0%;
+        }
+        .btns{
+          margin-top:10%
+        }
+        }

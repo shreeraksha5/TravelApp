@@ -1,0 +1,99 @@
+body .container-fluid2 {
+    background: url("../images/bg_2.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-bottom: 35%;
+  }
+
+
+
+.text_a{
+    font-size: 60px;
+    margin-left: 30%;
+    color:white;
+    padding-bottom:1%;
+    }
+    .containerclass{
+        background-color: black;
+        margin-left: 8%;
+    }
+    
+    .navbar-inner{
+        width:100%;
+        height: 100%;
+        background:transparent;
+        background-color: #000;
+        
+        background: 0 0!important
+        }
+           
+.txt_c{
+    color:white;
+}
+.nav_text{
+    color:white;
+    }
+    .home-input{
+        font-size: 14px;
+          margin-left:300px;
+          color: black;
+          opacity: 2;
+          background-color: transparent
+      }
+      .book_input{
+        font-size: 14px;
+        padding-top: 0.5rem; /* 1rem=16px */
+        padding-bottom: 0.5rem;
+         margin-right:8px;
+         color:black;
+         }
+         .nav_text{
+          color:white;
+          font-size: larger;
+          padding-top: 8%;
+          }
+         
+       .link_input{
+        font-size: 14px;
+           margin-left:20px ;
+      
+       }
+      
+        
+        
+          .iconsize{
+                width: 30%;
+                height: 38%;
+                border-radius: 70%;
+                background-color: gray;
+                margin-left: 40%;
+              }
+              .iconsize_text{
+                font-size:22px;
+                margin-left:38% ;
+              }
+              .iconsize_text1{
+                font-size:18px;
+                opacity:0.7;
+                margin-left: 37%;
+              }
+              .text_about{
+                font-size: 70px;
+                margin-left: 38%;
+                color:white;
+                padding-bottom:25%;
+                }
+          
+
+            .form_class{
+              padding-top: 5%;
+              padding-bottom:5%;
+              background-image: url("../images/p3.jpg");
+              -webkit-background-size: cover;
+              -moz-background-size: cover;
+              -o-background-size: cover;
+              background-size: cover;
+            }
+        
